@@ -1,7 +1,7 @@
 # PA3-Comparing-Classifiers
 This study compares the performance of the classifiers (k-nearest neighbors, logistic regression, decision trees, and support vector machines). The dataset is related to the marketing of bank products over the phone.
 
-Links to [prompt](https://github.com/MeghanHan/PA1-Coupon-Analysis/blob/main/prompt.ipynb), [data](https://github.com/MeghanHan/PA3-Comparing-Classifiers/tree/main/data), and [images](https://github.com/MeghanHan/PA3-Comparing-Classifiers/tree/main/images)
+Links to [prompt](https://github.com/MeghanHan/PA3-Comparing-Classifiers/blob/main/comparing_classifiers.ipynb), [data](https://github.com/MeghanHan/PA3-Comparing-Classifiers/tree/main/data), and [images](https://github.com/MeghanHan/PA3-Comparing-Classifiers/tree/main/images)
 
 
 ## Data
